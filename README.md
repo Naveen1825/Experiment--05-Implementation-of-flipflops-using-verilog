@@ -1,7 +1,5 @@
-
-Name : Naveenkanthan L
-Reg No : 23007705
-
+Name : Naveenkanthan L<br>
+Reg No : 212223230138
 
 
 # Exp-05 Implementation of flipflops using verilog
